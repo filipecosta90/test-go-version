@@ -1,3 +1,3 @@
-module github.com/filipecosta90/test-go-version
+module github.com/filipecosta90/test-go-version/v2
 
 go 1.15
